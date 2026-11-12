@@ -8,13 +8,13 @@
 Summary:	ASN.1 tools for Python
 Summary(pl.UTF-8):	Narzędzia ASN.1 dla Pythona
 Name:		python3-%{module}
-Version:	0.6.4
+Version:	0.6.5
 Release:	1
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pyasn1/
 Source0:	https://files.pythonhosted.org/packages/source/p/pyasn1/%{module}-%{version}.tar.gz
-# Source0-md5:	8389c385b422c57820eca5f21bad64b1
+# Source0-md5:	149c7bfcd5cbe4c10261ed6724cee161
 URL:		https://github.com/pyasn1/pyasn1
 BuildRequires:	python3 >= 1:3.8
 BuildRequires:	python3-build
